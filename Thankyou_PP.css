@@ -1,0 +1,27 @@
+.HP{
+  width: fit-content;
+  padding: 10px;
+}
+      
+.header{
+  font-weight: bold;
+  font-size: 30px; 
+}
+      
+.subheader{
+  font-weight: bold;
+  font-size: 20px;
+}
+      
+.name{
+  font-weight: normal;
+  font-size: 15px;
+}
+
+.sage{
+  text-indent: 1rem;
+}
+
+.sagesage{
+  text-indent: 2rem;
+}
